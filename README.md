@@ -1,8 +1,9 @@
  #Slidely assignment-2 frontend
 
-Main-form:
-
-create submission form:
+Main-form:![Main form](Mainform.png)
 
 
-view submission form:
+create submission form:![Create Submission  form](create submission.png)
+
+
+view submission form:![view submission form](view submission.png)
