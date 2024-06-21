@@ -16,7 +16,7 @@ Imports System.Reflection
 <Assembly: System.Reflection.AssemblyCompanyAttribute("WinFormsApp2-Slidely"),  _
  Assembly: System.Reflection.AssemblyConfigurationAttribute("Debug"),  _
  Assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0"),  _
- Assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0"),  _
+ Assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a66d1dba05a83b4fbbb0feb71300af5c92683cc4"),  _
  Assembly: System.Reflection.AssemblyProductAttribute("WinFormsApp2-Slidely"),  _
  Assembly: System.Reflection.AssemblyTitleAttribute("WinFormsApp2-Slidely"),  _
  Assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0"),  _
