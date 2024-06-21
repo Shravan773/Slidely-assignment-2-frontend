@@ -1,9 +1,1 @@
- #Slidely assignment-2 frontend
-
-Main-form:![Main form](Main form.png)
-
-
-create submission form:![Create Submission  form] (create submission.png)
-
-
-view submission form:![view submission form](view submission.png)
+Video of the execution and its features:https://www.youtube.com/watch?v=h2b4qVDG9dM
